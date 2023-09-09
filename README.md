@@ -1,5 +1,6 @@
-# RaidRankingCaptaure
-[SikuliX](http://sikulix.com/) を使って、ミストレレイドのダメージランキングをキャプチャーするスクリプトです。
+# RaidAtFinder
+[SikuliX](http://sikulix.com/) を使って、ミストレレイドの戦闘結果から自動で @ 車掌を探すスクリプトです。
+「レイド参加状況」の戦闘結果タブを開いてから動かしてください。
 
 # 準備
 
@@ -26,13 +27,13 @@ SikuliX では [OpenJDK](https://openjdk.java.net/) のダウンロードを推�
 
 
 ## スクリプトのダウンロード
-[このリンク](https://github.com/htoku3/RaidRankingCaptaure/archive/refs/heads/main.zip) をクリックして下さい。
-出来た "RaidRankingCapture-main"  というフォルダを先程と同様に "jdk-18.0.1.1"　に突っ込みます。
+[このリンク](https://github.com/htoku3/RaidAtFinder/archive/refs/heads/main.zip) をクリックして下さい。
+出来た "RaidAtFinder-main"  というフォルダを先程と同様に "jdk-18.0.1.1"　に突っ込みます。
 
 # 使い方
 
 ## とにかく動かしたい人
-"RaidRankingCapture-main" に入って、 **exec_SikuliX.bat** をダブルクリックすると動きます。 (...動くはずです。)
+"RaidAtFinder-main" に入って、 **exec_SikuliX.bat** をダブルクリックすると動きます。 (...動くはずです。)
 
 終了はコマンドプロンプトを閉じればOKです。
 
